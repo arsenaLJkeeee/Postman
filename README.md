@@ -1,1 +1,4 @@
 # Postman
+
+Autotests
+Collections
